@@ -1,3 +1,0 @@
-/home/zhouhongjin/opencv_project/build/CMakeFiles/rebuild_cache.dir
-/home/zhouhongjin/opencv_project/build/CMakeFiles/edit_cache.dir
-/home/zhouhongjin/opencv_project/build/CMakeFiles/OpenCV_Project.dir
